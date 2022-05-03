@@ -9,7 +9,7 @@ public class ZKUtils {
 
     private static ZooKeeper zk;
 
-    private static String address = "39.107.230.218:2181/testConf";
+    private static String address = "39.107.230.218:2181/testLock";
 
     private static DefaultWatch watch = new DefaultWatch();
 
