@@ -1,0 +1,16 @@
+# 应用名称
+spring:
+  application:
+    name: springsecurity
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://39.107.230.218:3306/security?useUnicode=true&characterEncoding=UTF-8&useSSL=false&autoReconnect=true&failOverReadOnly=false
+    username: root
+    password: ygh@2022.
+# 应用服务 WEB 访问端口
+server:
+  port: 8081
+
+#spring.mvc.servlet.path=/xxxx
+
