@@ -1,0 +1,12 @@
+# 应用名称
+spring:
+  application:
+    name: oauth2
+
+  redis:
+    host: 39.107.230.21v8
+    port: 6379
+    database: 0
+    password: Ygh@1108.
+
+
